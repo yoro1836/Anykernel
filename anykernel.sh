@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Suiya kernel by Yoro1836 (build date : DATE, version : DUMMY1)
+kernel.string=Kren kernel by Yoro1836
 do.devicecheck=0
 do.modules=0
 do.systemless=0
