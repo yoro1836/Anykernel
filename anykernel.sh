@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Kren kernel by Yoro1836
+kernel.string=PvZ kernel by Yoro1836
 do.devicecheck=0
 do.modules=0
 do.systemless=0
